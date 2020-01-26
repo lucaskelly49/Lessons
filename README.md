@@ -2,6 +2,8 @@
 
 Data Science Lessons
 
+Using my expertise as a teacher/educator, I've created a few lessons that will showcase my abilities to teach technical concepts to both new data scientists and non-technical audiences. 
+
 https://lucaskellydataportfolio.weebly.com/
  
 
