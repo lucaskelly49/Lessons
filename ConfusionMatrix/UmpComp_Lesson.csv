@@ -1,0 +1,187 @@
+,Unnamed: 0,pitchIdx,inning,frame,ab,abIdx,batter,stand,speed,pitchtype,px,pz,szTop,szBottom,des,x_call,y_call,comp_call,acc
+1,353,353,1,top,1,2,George Springer,R,89.4,fb-splitter,-1.37,3.08,3.62,1.72,Ball,Out,Strike,Ball,1
+3,355,355,1,top,2,1,Jose Altuve,R,82.8,slider,0.73,1.96,3.05,1.45,Called Strike,Strike,Strike,Called Strike,1
+4,356,356,1,top,2,2,Jose Altuve,R,91.0,4-seam fb,-1.22,4.44,3.08,1.39,Ball,Out,High,Ball,1
+5,357,357,1,top,2,3,Jose Altuve,R,83.8,slider,1.27,0.7,3.05,1.48,Ball,In,Low,Ball,1
+8,360,360,1,top,3,1,Michael Brantley,L,81.0,slider,-0.32,1.76,3.32,1.52,Called Strike,Strike,Strike,Called Strike,1
+9,361,361,1,top,3,2,Michael Brantley,L,85.8,fb-splitter,-0.24,0.39,3.32,1.48,Ball,Strike,Low,Ball,1
+10,362,362,1,top,3,3,Michael Brantley,L,81.6,slider,-0.25,2.97,3.41,1.52,Called Strike,Strike,Strike,Called Strike,1
+11,363,363,1,top,3,4,Michael Brantley,L,90.6,4-seam fb,-0.27,4.05,3.35,1.52,Ball,Strike,High,Ball,1
+12,364,364,1,top,3,5,Michael Brantley,L,86.5,fb-splitter,-1.29,1.99,3.35,1.52,Ball,Out,Strike,Ball,1
+15,367,367,1,top,3,8,Michael Brantley,L,83.8,slider,0.73,1.21,3.35,1.52,Ball,Strike,Low,Ball,1
+16,368,368,1,top,4,1,Alex Bregman,R,81.4,slider,0.92,2.3,3.13,1.45,Called Strike,In,Strike,Ball,0
+18,370,370,1,bottom,5,1,DJ LeMahieu,R,88.6,4-seam fb,1.03,2.25,3.53,1.75,Ball,In,Strike,Ball,1
+19,371,371,1,bottom,5,2,DJ LeMahieu,R,88.9,4-seam fb,0.69,1.46,3.5,1.75,Ball,Strike,Low,Ball,1
+20,372,372,1,bottom,5,3,DJ LeMahieu,R,88.2,4-seam fb,0.28,1.19,3.5,1.69,Ball,Strike,Low,Ball,1
+21,373,373,1,bottom,5,4,DJ LeMahieu,R,87.6,4-seam fb,1.44,1.91,3.53,1.75,Ball,In,Strike,Ball,1
+22,374,374,1,bottom,6,1,Aaron Judge,R,90.2,4-seam fb,-0.08,1.27,4.24,2.08,Ball,Strike,Low,Ball,1
+23,375,375,1,bottom,6,2,Aaron Judge,R,71.8,curveball,-0.41,2.21,4.03,2.05,Called Strike,Strike,Strike,Called Strike,1
+24,376,376,1,bottom,6,3,Aaron Judge,R,87.2,changeup,-0.52,1.38,4.21,2.11,Ball,Strike,Low,Ball,1
+28,380,380,1,bottom,7,1,Aaron Hicks,L,87.6,changeup,-0.04,1.59,3.5,1.54,Called Strike,Strike,Strike,Called Strike,1
+29,381,381,1,bottom,7,2,Aaron Hicks,L,87.2,changeup,-0.97,1.39,3.5,1.6,Ball,Out,Low,Ball,1
+30,382,382,1,bottom,7,3,Aaron Hicks,L,74.3,curveball,-0.46,1.82,3.47,1.57,Called Strike,Strike,Strike,Called Strike,1
+33,385,385,1,bottom,9,1,Edwin Encarnacion,R,83.5,slider,0.68,1.26,3.41,1.66,Ball,Strike,Low,Ball,1
+34,386,386,1,bottom,9,2,Edwin Encarnacion,R,84.0,slider,-0.13,2.57,3.32,1.59,Called Strike,Strike,Strike,Called Strike,1
+35,387,387,1,bottom,9,3,Edwin Encarnacion,R,91.3,2-seam fb,0.06,2.52,3.5,1.59,Called Strike,Strike,Strike,Called Strike,1
+36,388,388,1,bottom,9,4,Edwin Encarnacion,R,90.1,4-seam fb,-0.17,1.41,3.38,1.59,Ball,Strike,Low,Ball,1
+37,389,389,1,bottom,9,5,Edwin Encarnacion,R,91.9,4-seam fb,-1.02,2.12,3.32,1.59,Ball,Out,Strike,Ball,1
+38,390,390,1,bottom,9,6,Edwin Encarnacion,R,91.0,4-seam fb,-1.2,2.25,3.38,1.63,Ball,Out,Strike,Ball,1
+39,391,391,1,bottom,10,1,Brett Gardner,L,87.8,changeup,-0.96,2.4,2.84,1.24,Ball,Out,Strike,Ball,1
+41,393,393,1,bottom,10,3,Brett Gardner,L,90.8,4-seam fb,-0.78,0.92,3.14,1.49,Ball,Strike,Low,Ball,1
+42,394,394,1,bottom,10,4,Brett Gardner,L,90.8,4-seam fb,-0.98,1.71,2.9,1.27,Ball,Out,Strike,Ball,1
+43,395,395,1,bottom,11,1,Gary Sanchez,R,74.6,curveball,0.68,1.49,3.35,1.6,Called Strike,Strike,Low,Ball,0
+46,398,398,2,top,12,1,Yuli Gurriel,R,84.0,fb-splitter,0.11,1.52,3.47,1.63,Called Strike,Strike,Low,Ball,0
+47,399,399,2,top,12,2,Yuli Gurriel,R,89.5,4-seam fb,-0.4,4.21,3.5,1.6,Ball,Strike,High,Ball,1
+48,400,400,2,top,12,3,Yuli Gurriel,R,85.9,fb-splitter,0.71,0.49,3.47,1.66,Ball,Strike,Low,Ball,1
+52,404,404,2,top,13,3,Yordan Alvarez,L,91.2,4-seam fb,-1.22,5.57,3.53,1.66,Ball,Out,High,Ball,1
+53,405,405,2,top,13,4,Yordan Alvarez,L,90.4,4-seam fb,-0.18,5.37,3.5,1.6,Ball,Strike,High,Ball,1
+55,407,407,2,top,13,6,Yordan Alvarez,L,85.2,slider,1.36,0.05,3.41,1.6,Ball,In,Low,Ball,1
+57,409,409,2,top,14,1,Carlos Correa,R,90.5,4-seam fb,-0.06,3.85,3.62,1.75,Ball,Strike,High,Ball,1
+59,411,411,2,top,14,3,Carlos Correa,R,89.4,sinker,-1.66,2.92,3.62,1.84,Ball,Out,Strike,Ball,1
+60,412,412,2,top,14,4,Carlos Correa,R,86.6,fb-splitter,0.89,1.58,3.62,1.75,Ball,In,Low,Ball,1
+64,416,416,2,bottom,16,1,Didi Gregorius,L,87.9,4-seam fb,-0.05,2.66,3.35,1.54,Called Strike,Strike,Strike,Called Strike,1
+67,419,419,2,bottom,17,1,DJ LeMahieu,R,86.6,changeup,-1.38,1.49,3.5,1.63,Ball,Out,Low,Ball,1
+68,420,420,2,bottom,17,2,DJ LeMahieu,R,90.4,2-seam fb,-0.87,1.98,3.4,1.59,Called Strike,Out,Strike,Ball,0
+70,422,422,2,bottom,18,1,Aaron Judge,R,83.2,slider,0.05,1.95,4.18,1.89,Called Strike,Strike,Strike,Called Strike,1
+73,425,425,2,bottom,18,4,Aaron Judge,R,85.7,slider,0.94,1.22,3.95,1.9,Ball,In,Low,Ball,1
+74,426,426,2,bottom,18,5,Aaron Judge,R,67.4,curveball,1.04,0.99,3.91,1.89,Ball,In,Low,Ball,1
+77,429,429,3,top,19,1,Robinson Chirinos,R,89.9,4-seam fb,0.64,3.54,3.29,1.54,Ball,Strike,High,Ball,1
+78,430,430,3,top,19,2,Robinson Chirinos,R,84.9,fb-splitter,1.2,0.1,3.26,1.51,Ball,In,Low,Ball,1
+79,431,431,3,top,19,3,Robinson Chirinos,R,82.5,slider,1.04,2.71,3.26,1.54,Ball,In,Strike,Ball,1
+80,432,432,3,top,19,4,Robinson Chirinos,R,90.1,4-seam fb,-0.22,3.83,3.23,1.52,Ball,Strike,High,Ball,1
+81,433,433,3,top,20,1,Josh Reddick,L,81.6,slider,-0.07,1.48,3.32,1.52,Called Strike,Strike,Low,Ball,0
+84,436,436,3,top,21,1,George Springer,R,85.3,fb-splitter,1.07,1.87,3.56,1.66,Ball,In,Strike,Ball,1
+92,444,444,3,top,23,1,Michael Brantley,L,81.7,slider,-1.08,2.26,3.34,1.51,Called Strike,Out,Strike,Ball,0
+96,448,448,3,top,25,1,Yuli Gurriel,R,88.8,fb-splitter,0.77,0.8,3.5,1.66,Ball,Strike,Low,Ball,1
+98,450,450,3,top,25,3,Yuli Gurriel,R,93.8,4-seam fb,0.26,5.31,3.5,1.63,Ball,Strike,High,Ball,1
+103,455,455,3,bottom,27,1,Aaron Hicks,L,88.2,4-seam fb,-0.18,1.44,3.66,1.55,Called Strike,Strike,Low,Ball,0
+105,457,457,3,bottom,27,3,Aaron Hicks,L,83.0,slider,-1.53,1.23,3.53,1.6,Ball,Out,Low,Ball,1
+106,458,458,3,bottom,27,4,Aaron Hicks,L,66.9,curveball,-0.75,1.32,3.44,1.69,Ball,Strike,Low,Ball,1
+108,460,460,3,bottom,28,1,Gleyber Torres,R,70.1,curveball,0.95,1.98,3.16,1.42,Called Strike,In,Strike,Ball,0
+109,461,461,3,bottom,28,2,Gleyber Torres,R,83.7,slider,-0.18,1.39,3.41,1.63,Ball,Strike,Low,Ball,1
+110,462,462,3,bottom,28,3,Gleyber Torres,R,88.8,4-seam fb,-1.13,1.7,3.4,1.59,Called Strike,Out,Strike,Ball,0
+111,463,463,3,bottom,28,4,Gleyber Torres,R,88.2,changeup,0.33,-0.88,3.47,1.63,Ball,Strike,Low,Ball,1
+116,468,468,3,bottom,29,2,Edwin Encarnacion,R,84.7,slider,0.79,1.96,3.47,1.72,Called Strike,Strike,Strike,Called Strike,1
+117,469,469,3,bottom,29,3,Edwin Encarnacion,R,88.1,4-seam fb,0.51,4.06,3.41,1.59,Ball,Strike,High,Ball,1
+118,470,470,3,bottom,29,4,Edwin Encarnacion,R,83.5,slider,-0.07,0.92,3.38,1.59,Ball,Strike,Low,Ball,1
+119,471,471,3,bottom,29,5,Edwin Encarnacion,R,85.8,slider,-0.68,1.86,3.38,1.59,Called Strike,Strike,Strike,Called Strike,1
+121,473,473,4,top,31,1,Robinson Chirinos,R,90.9,4-seam fb,0.33,2.33,3.02,1.33,Called Strike,Strike,Strike,Called Strike,1
+122,474,474,4,top,31,2,Robinson Chirinos,R,89.4,fb-splitter,-0.61,3.11,3.32,1.54,Called Strike,Strike,Strike,Called Strike,1
+123,475,475,4,top,31,3,Robinson Chirinos,R,91.5,4-seam fb,0.07,3.86,3.29,1.6,Ball,Strike,High,Ball,1
+125,477,477,4,top,32,1,Josh Reddick,L,90.7,4-seam fb,-0.58,2.01,3.38,1.63,Called Strike,Strike,Strike,Called Strike,1
+126,478,478,4,top,32,2,Josh Reddick,L,90.1,4-seam fb,0.61,4.4,3.29,1.52,Ball,Strike,High,Ball,1
+128,480,480,4,bottom,33,1,Brett Gardner,L,89.2,4-seam fb,-0.11,1.45,3.02,1.42,Called Strike,Strike,Strike,Called Strike,1
+131,483,483,4,bottom,34,1,Gary Sanchez,R,89.8,4-seam fb,-1.06,1.42,3.41,1.66,Ball,Out,Low,Ball,1
+132,484,484,4,bottom,34,2,Gary Sanchez,R,72.0,curveball,-0.14,1.68,3.32,1.54,Called Strike,Strike,Strike,Called Strike,1
+134,486,486,4,bottom,35,1,Gio Urshela,R,89.1,4-seam fb,0.24,2.52,3.5,1.66,Called Strike,Strike,Strike,Called Strike,1
+136,488,488,5,top,36,1,George Springer,R,82.5,slider,1.33,1.58,3.65,1.66,Ball,In,Low,Ball,1
+140,492,492,5,top,37,2,Jose Altuve,R,84.3,slider,1.15,0.91,3.08,1.48,Ball,In,Low,Ball,1
+143,495,495,5,top,38,2,Michael Brantley,L,86.9,fb-splitter,-0.02,2.57,3.44,1.52,Called Strike,Strike,Strike,Called Strike,1
+144,496,496,5,top,38,3,Michael Brantley,L,87.7,fb-splitter,-0.03,0.67,3.35,1.51,Ball,Strike,Low,Ball,1
+145,497,497,5,top,38,4,Michael Brantley,L,86.2,fb-cutter,0.94,0.9,3.32,1.45,Ball,In,Low,Ball,1
+146,498,498,5,top,38,5,Michael Brantley,L,87.9,fb-splitter,0.93,1.45,3.26,1.51,Ball,In,Low,Ball,1
+149,501,501,5,bottom,39,1,Didi Gregorius,L,86.1,changeup,-0.95,1.76,3.2,1.45,Ball,Out,Strike,Ball,1
+151,503,503,5,bottom,39,3,Didi Gregorius,L,74.5,curveball,0.12,0.88,3.29,1.48,Ball,Strike,Low,Ball,1
+153,505,505,5,bottom,40,1,DJ LeMahieu,R,87.8,changeup,0.65,0.68,3.44,1.66,Ball,Strike,Low,Ball,1
+155,507,507,5,bottom,40,3,DJ LeMahieu,R,89.0,4-seam fb,-1.74,3.37,3.53,1.81,Ball,Out,Strike,Ball,1
+157,509,509,5,bottom,41,1,Aaron Judge,R,87.9,changeup,-0.59,1.18,4.18,2.05,Ball,Strike,Low,Ball,1
+158,510,510,5,bottom,41,2,Aaron Judge,R,86.9,changeup,-1.58,2.73,4.15,1.99,Ball,Out,Strike,Ball,1
+159,511,511,5,bottom,41,3,Aaron Judge,R,85.7,slider,-0.05,3.45,4.16,2.09,Ball,Strike,Strike,Called Strike,0
+160,512,512,5,bottom,41,4,Aaron Judge,R,83.8,slider,0.11,2.17,4.18,1.96,Called Strike,Strike,Strike,Called Strike,1
+165,517,517,5,bottom,42,1,Aaron Hicks,L,93.9,4-seam fb,0.58,1.52,3.53,1.7,Ball,Strike,Low,Ball,1
+167,519,519,5,bottom,42,3,Aaron Hicks,L,81.1,curveball,-0.44,2.72,3.56,1.57,Called Strike,Strike,Strike,Called Strike,1
+169,521,521,5,bottom,42,5,Aaron Hicks,L,83.0,curveball,0.15,1.16,3.53,1.66,Ball,Strike,Low,Ball,1
+170,522,522,5,bottom,42,6,Aaron Hicks,L,87.3,slider,0.78,1.46,3.5,1.6,Ball,Strike,Low,Ball,1
+172,524,524,5,bottom,43,2,Gleyber Torres,R,82.4,curveball,-0.99,1.63,3.35,1.52,Ball,Out,Strike,Ball,1
+180,532,532,5,bottom,44,4,Edwin Encarnacion,R,82.3,curveball,-0.73,2.6,3.22,1.49,Ball,Strike,Strike,Called Strike,0
+183,535,535,6,top,45,1,Alex Bregman,R,89.3,4-seam fb,0.84,3.7,3.35,1.66,Ball,In,High,Ball,1
+184,536,536,6,top,45,2,Alex Bregman,R,90.8,4-seam fb,-0.05,4.31,3.44,1.6,Ball,Strike,High,Ball,1
+188,540,540,6,top,47,1,Yordan Alvarez,L,95.6,4-seam fb,-1.31,4.37,3.47,1.57,Ball,Out,High,Ball,1
+189,541,541,6,top,47,2,Yordan Alvarez,L,96.1,4-seam fb,0.47,2.79,3.56,1.66,Called Strike,Strike,Strike,Called Strike,1
+193,545,545,6,top,49,1,Robinson Chirinos,R,96.7,4-seam fb,1.2,2.93,3.32,1.69,Ball,In,Strike,Ball,1
+198,550,550,6,top,49,6,Robinson Chirinos,R,87.4,slider,1.03,1.25,3.29,1.54,Ball,In,Low,Ball,1
+199,551,551,6,top,49,7,Robinson Chirinos,R,87.4,slider,1.82,1.5,3.17,1.51,Ball,In,Low,Ball,1
+202,554,554,6,top,50,2,Josh Reddick,L,96.9,4-seam fb,0.9,3.39,3.29,1.52,Ball,In,High,Ball,1
+205,557,557,6,bottom,51,1,Brett Gardner,L,97.6,4-seam fb,1.09,1.93,2.99,1.3,Ball,In,Strike,Ball,1
+206,558,558,6,bottom,51,2,Brett Gardner,L,98.1,4-seam fb,0.73,1.53,2.96,1.31,Ball,Strike,Strike,Called Strike,0
+207,559,559,6,bottom,51,3,Brett Gardner,L,97.9,4-seam fb,0.98,2.6,2.81,1.33,Ball,In,Strike,Ball,1
+208,560,560,6,bottom,51,4,Brett Gardner,L,97.9,4-seam fb,0.7,1.17,2.63,1.13,Ball,Strike,Strike,Called Strike,0
+210,562,562,6,bottom,52,2,Gary Sanchez,R,99.3,4-seam fb,1.14,1.8,3.32,1.6,Ball,In,Strike,Ball,1
+211,563,563,6,bottom,52,3,Gary Sanchez,R,98.0,4-seam fb,-0.51,2.7,3.17,1.48,Called Strike,Strike,Strike,Called Strike,1
+213,565,565,6,bottom,53,1,Gio Urshela,R,98.1,4-seam fb,0.44,2.03,3.5,1.66,Called Strike,Strike,Strike,Called Strike,1
+214,566,566,6,bottom,53,2,Gio Urshela,R,86.0,slider,1.55,1.04,3.41,1.66,Ball,In,Low,Ball,1
+215,567,567,6,bottom,53,3,Gio Urshela,R,98.2,4-seam fb,0.23,2.34,3.5,1.66,Called Strike,Strike,Strike,Called Strike,1
+218,570,570,6,bottom,54,1,Didi Gregorius,L,89.1,changeup,-0.69,2.21,3.23,1.54,Called Strike,Strike,Strike,Called Strike,1
+219,571,571,6,bottom,54,2,Didi Gregorius,L,98.5,4-seam fb,0.12,2.24,3.26,1.63,Called Strike,Strike,Strike,Called Strike,1
+221,573,573,6,bottom,55,1,DJ LeMahieu,R,97.9,4-seam fb,1.89,1.59,3.35,1.6,Ball,In,Low,Ball,1
+223,575,575,6,bottom,56,1,Aaron Judge,R,99.3,4-seam fb,1.0,2.01,4.21,2.05,Ball,In,Low,Ball,1
+224,576,576,6,bottom,56,2,Aaron Judge,R,97.8,4-seam fb,0.88,1.98,4.16,2.0,Called Strike,In,Low,Ball,0
+227,579,579,6,bottom,56,5,Aaron Judge,R,98.5,4-seam fb,1.58,2.21,4.21,2.05,Ball,In,Strike,Ball,1
+229,581,581,7,top,57,1,George Springer,R,84.2,slider,0.83,2.93,3.62,1.66,Called Strike,Strike,Strike,Called Strike,1
+230,582,582,7,top,57,2,George Springer,R,97.8,4-seam fb,-1.23,4.88,3.59,1.66,Ball,Out,High,Ball,1
+232,584,584,7,top,57,4,George Springer,R,98.1,4-seam fb,-0.67,3.0,3.56,1.72,Called Strike,Strike,Strike,Called Strike,1
+233,585,585,7,top,58,1,Jose Altuve,R,82.4,slider,-0.08,3.24,2.9,1.34,Called Strike,Strike,High,Ball,0
+234,586,586,7,top,58,2,Jose Altuve,R,98.1,4-seam fb,-1.33,4.17,3.05,1.48,Ball,Out,High,Ball,1
+235,587,587,7,top,58,3,Jose Altuve,R,91.3,changeup,0.69,1.55,3.05,1.42,Called Strike,Strike,Strike,Called Strike,1
+237,589,589,7,top,58,5,Jose Altuve,R,92.5,changeup,1.54,1.25,2.88,1.36,Ball,In,Low,Ball,1
+239,591,591,7,top,59,1,Michael Brantley,L,96.6,4-seam fb,-0.82,2.57,3.35,1.52,Called Strike,Strike,Strike,Called Strike,1
+240,592,592,7,top,59,2,Michael Brantley,L,92.8,changeup,0.39,1.88,3.35,1.42,Called Strike,Strike,Strike,Called Strike,1
+241,593,593,7,top,59,3,Michael Brantley,L,92.5,changeup,0.07,0.76,3.38,1.52,Ball,Strike,Low,Ball,1
+243,595,595,7,bottom,60,1,Aaron Hicks,L,81.2,curveball,-0.43,3.19,3.53,1.66,Called Strike,Strike,Strike,Called Strike,1
+244,596,596,7,bottom,60,2,Aaron Hicks,L,82.6,curveball,0.38,1.04,3.44,1.57,Ball,Strike,Low,Ball,1
+245,597,597,7,bottom,60,3,Aaron Hicks,L,90.6,fb-cutter,-0.7,3.11,3.26,1.43,Ball,Strike,Strike,Called Strike,0
+247,599,599,7,bottom,60,5,Aaron Hicks,L,91.7,fb-cutter,0.26,2.0,3.47,1.48,Called Strike,Strike,Strike,Called Strike,1
+250,602,602,7,bottom,61,3,Gleyber Torres,R,91.3,fb-cutter,-0.27,4.67,3.41,1.69,Ball,Strike,High,Ball,1
+251,603,603,7,bottom,61,4,Gleyber Torres,R,91.5,fb-cutter,-0.17,1.49,3.41,1.59,Called Strike,Strike,Low,Ball,0
+252,604,604,7,bottom,62,1,Edwin Encarnacion,R,81.8,curveball,-0.9,1.6,3.38,1.59,Ball,Out,Strike,Ball,1
+254,606,606,7,bottom,62,3,Edwin Encarnacion,R,82.3,curveball,0.25,0.91,3.38,1.54,Ball,Strike,Low,Ball,1
+257,609,609,8,top,63,1,Alex Bregman,R,91.8,2-seam fb,0.07,3.22,3.38,1.66,Called Strike,Strike,Strike,Called Strike,1
+258,610,610,8,top,63,2,Alex Bregman,R,85.6,fb-cutter,1.47,3.29,3.44,1.63,Ball,In,Strike,Ball,1
+260,612,612,8,top,63,4,Alex Bregman,R,93.9,2-seam fb,1.24,1.73,3.35,1.66,Ball,In,Strike,Ball,1
+263,615,615,8,top,64,2,Yuli Gurriel,R,93.5,2-seam fb,-0.16,1.04,3.47,1.66,Ball,Strike,Low,Ball,1
+264,616,616,8,top,64,3,Yuli Gurriel,R,93.0,2-seam fb,1.07,1.96,3.44,1.63,Ball,In,Strike,Ball,1
+267,619,619,8,top,65,1,Yordan Alvarez,L,90.9,sinker,-0.04,2.46,3.56,1.66,Called Strike,Strike,Strike,Called Strike,1
+268,620,620,8,top,65,2,Yordan Alvarez,L,92.3,sinker,1.69,2.53,3.5,1.66,Ball,In,Strike,Ball,1
+274,626,626,8,top,66,4,Carlos Correa,R,86.6,sinker,0.87,1.04,3.71,1.78,Ball,In,Low,Ball,1
+277,629,629,8,top,67,2,Robinson Chirinos,R,90.7,fb-cutter,0.61,3.23,3.17,1.63,Ball,Strike,High,Ball,1
+279,631,631,8,top,68,1,Aledmys Diaz,R,82.5,slider,1.62,1.73,3.59,1.75,Ball,In,Low,Ball,1
+280,632,632,8,top,68,2,Aledmys Diaz,R,82.0,slider,0.05,0.97,3.56,1.64,Ball,Strike,Low,Ball,1
+281,633,633,8,top,68,3,Aledmys Diaz,R,90.7,fb-cutter,-0.52,2.48,3.53,1.78,Called Strike,Strike,Strike,Called Strike,1
+284,636,636,8,top,69,1,George Springer,R,91.2,fb-cutter,-0.76,2.65,3.65,1.75,Called Strike,Strike,Strike,Called Strike,1
+285,637,637,8,top,69,2,George Springer,R,80.4,slider,-0.36,1.18,3.59,1.66,Ball,Strike,Low,Ball,1
+286,638,638,8,top,69,3,George Springer,R,88.6,fb-cutter,-0.97,1.8,3.56,1.6,Ball,Out,Strike,Ball,1
+289,641,641,8,bottom,70,1,Brett Gardner,L,87.0,sinker,-2.05,1.35,3.11,1.39,Ball,Out,Low,Ball,1
+290,642,642,8,bottom,70,2,Brett Gardner,L,80.3,slider,0.33,2.77,3.03,1.33,Called Strike,Strike,Strike,Called Strike,1
+291,643,643,8,bottom,70,3,Brett Gardner,L,80.0,slider,0.08,1.88,3.08,1.48,Called Strike,Strike,Strike,Called Strike,1
+292,644,644,8,bottom,70,4,Brett Gardner,L,90.3,4-seam fb,1.38,2.94,2.99,1.36,Ball,In,Strike,Ball,1
+296,648,648,8,bottom,71,1,Gary Sanchez,R,90.2,4-seam fb,-0.86,2.53,3.44,1.69,Ball,Out,Strike,Ball,1
+297,649,649,8,bottom,71,2,Gary Sanchez,R,90.1,4-seam fb,-1.11,2.88,3.41,1.6,Ball,Out,Strike,Ball,1
+298,650,650,8,bottom,71,3,Gary Sanchez,R,80.7,slider,0.17,1.79,3.41,1.66,Called Strike,Strike,Strike,Called Strike,1
+300,652,652,8,bottom,71,5,Gary Sanchez,R,87.8,4-seam fb,-1.54,1.99,3.38,1.63,Ball,Out,Strike,Ball,1
+301,653,653,8,bottom,71,6,Gary Sanchez,R,80.4,slider,-0.62,1.78,3.44,1.63,Called Strike,Strike,Strike,Called Strike,1
+302,654,654,8,bottom,72,1,Gio Urshela,R,79.3,slider,0.52,2.91,3.56,1.73,Ball,Strike,Strike,Called Strike,0
+304,656,656,8,bottom,73,1,Didi Gregorius,L,97.6,4-seam fb,-0.74,3.8,3.35,1.6,Ball,Strike,High,Ball,1
+305,657,657,8,bottom,73,2,Didi Gregorius,L,97.3,4-seam fb,-0.38,2.17,3.29,1.63,Called Strike,Strike,Strike,Called Strike,1
+308,660,660,9,top,74,1,Jose Altuve,R,86.2,curveball,0.05,0.91,2.91,1.31,Ball,Strike,Low,Ball,1
+310,662,662,9,top,75,1,Michael Brantley,L,97.8,4-seam fb,-1.41,4.13,3.35,1.45,Ball,Out,High,Ball,1
+311,663,663,9,top,75,2,Michael Brantley,L,91.3,changeup,-0.12,1.1,3.41,1.52,Ball,Strike,Low,Ball,1
+312,664,664,9,top,75,3,Michael Brantley,L,98.0,2-seam fb,0.05,1.67,3.32,1.39,Called Strike,Strike,Strike,Called Strike,1
+315,667,667,9,top,75,6,Michael Brantley,L,85.6,curveball,-0.16,0.35,3.29,1.33,Ball,Strike,Low,Ball,1
+317,669,669,9,top,76,1,Alex Bregman,R,98.3,2-seam fb,-0.32,2.28,3.35,1.54,Called Strike,Strike,Strike,Called Strike,1
+320,672,672,9,top,76,4,Alex Bregman,R,98.9,4-seam fb,1.1,1.43,3.26,1.54,Ball,In,Low,Ball,1
+321,673,673,9,top,76,5,Alex Bregman,R,98.8,4-seam fb,0.03,3.87,3.38,1.63,Ball,Strike,High,Ball,1
+324,676,676,9,top,76,8,Alex Bregman,R,97.6,2-seam fb,-1.54,3.75,3.41,1.69,Ball,Out,High,Ball,1
+325,677,677,9,top,76,9,Alex Bregman,R,97.7,4-seam fb,-0.99,4.07,3.41,1.63,Ball,Out,High,Ball,1
+328,680,680,9,top,77,3,Yuli Gurriel,R,98.2,4-seam fb,-0.77,4.62,3.38,1.55,Ball,Strike,High,Ball,1
+330,682,682,9,top,78,1,Yordan Alvarez,L,79.6,slider,-1.28,1.31,3.35,1.57,Ball,Out,Low,Ball,1
+331,683,683,9,top,78,2,Yordan Alvarez,L,79.1,slider,-0.83,2.94,3.32,1.48,Ball,Strike,Strike,Called Strike,0
+333,685,685,9,top,78,4,Yordan Alvarez,L,89.1,sinker,-0.89,1.49,3.38,1.54,Ball,Out,Low,Ball,1
+334,686,686,9,top,78,5,Yordan Alvarez,L,88.8,sinker,-0.8,2.06,3.44,1.66,Called Strike,Strike,Strike,Called Strike,1
+336,688,688,9,top,79,1,Carlos Correa,R,80.7,slider,0.59,1.85,3.65,1.75,Called Strike,Strike,Strike,Called Strike,1
+338,690,690,9,top,79,3,Carlos Correa,R,90.1,4-seam fb,-0.62,3.19,3.71,1.72,Called Strike,Strike,Strike,Called Strike,1
+339,691,691,9,bottom,80,1,DJ LeMahieu,R,97.3,4-seam fb,0.18,2.83,3.41,1.69,Called Strike,Strike,Strike,Called Strike,1
+342,694,694,9,bottom,82,1,Aaron Hicks,L,97.0,4-seam fb,-0.08,3.01,3.53,1.6,Called Strike,Strike,Strike,Called Strike,1
+343,695,695,9,bottom,82,2,Aaron Hicks,L,89.5,slider,0.23,4.17,3.5,1.63,Ball,Strike,High,Ball,1
+345,697,697,9,bottom,82,4,Aaron Hicks,L,86.4,changeup,0.49,1.4,3.41,1.57,Ball,Strike,Low,Ball,1
+348,700,700,9,bottom,82,7,Aaron Hicks,L,89.7,slider,1.29,0.94,3.5,1.57,Ball,In,Low,Ball,1
+349,701,701,9,bottom,82,8,Aaron Hicks,L,97.4,4-seam fb,0.63,4.06,3.44,1.52,Ball,Strike,High,Ball,1
